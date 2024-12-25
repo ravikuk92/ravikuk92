@@ -38,7 +38,7 @@
 ### 📫 Let's Connect
 
 - 🌐 [GitHub](https://github.com/ravik92)  
-- 💼 [LinkedIn](https://linkedin.com/in/ravikumar-k-258ab9b9)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ravikumar-kumarasamy-258ab9b9 )
 - 📧 [Email](mailto:ravikece92@gmail.com)  
 
 ---
