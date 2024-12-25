@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Ravikumar Kumarasamy!
 
 🌟 **Senior Consultant at Infosys**  
 🎯 **Specialist in DevOps Solutions & Workload Automation**
@@ -11,7 +11,7 @@
 - 🏢 Worked with IBM/Kyndryl for 7 years as a Control-M Admin for clients across geographies.  
 - 📈 Successfully led Control-M migration projects, including transitioning from Epsilon tool to Control-M at NSE.  
 - 🤖 Focused on leveraging **Automation API** and scripting to streamline operations and reduce manual intervention.  
-- 🌐 Skilled in **DSeries**, **Automic Workload Automation**, and DevOps implementation.
+- 🌐 Skilled in **DSeries**, **Automic Workload Automation**, and **DevOps implementation**.
 
 ---
 
@@ -38,8 +38,8 @@
 ### 📫 Let's Connect
 
 - 🌐 [GitHub](https://github.com/ravik92)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)  
-- 📧 [Email](mailto:your.email@example.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/ravikumar-k-258ab9b9)  
+- 📧 [Email](mailto:ravikece92@gmail.com)  
 
 ---
 
