@@ -7,7 +7,7 @@
 
 ### About Me
 
-- 💻 9.5 years of professional experience in IT, with expertise in **Control-M administration** and **Workload Automation**.  
+- 💻 9.5 years of professional experience in IT, with expertise in **Devops Engineering** ,**Control-M administration** and **Workload Automation**.  
 - 🏢 Worked with IBM/Kyndryl for 7 years as a Control-M Admin for clients across geographies.  
 - 📈 Successfully led Control-M migration projects, including transitioning from Epsilon tool to Control-M at NSE.  
 - 🤖 Focused on leveraging **Automation API** and scripting to streamline operations and reduce manual intervention.  
